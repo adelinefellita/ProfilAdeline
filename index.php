@@ -40,7 +40,7 @@
                     <a href="#" class="ctaa"><i class="ri-play-fill"></i>Mulai Cari</a>
                 </div>
                 <aside class="beranda-img">
-                    <img src="assets/adeline.png" alt="">
+                    <img src="https://storage.googleapis.com/staging.glass-amplifier-403108.appspot.com/67522866968480bc156f4a02c1aecf31709d504f" alt="">
                 </aside>
             </section>
             <div class="scroll-down">
