@@ -6,7 +6,7 @@
         <title>RentHouse</title>
 
         <!--custom css link-->
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/staging.glass-amplifier-403108.appspot.com/87d28d24700a63c0c60ffb2c385af44056b49ab1">
 
         <!--boxicons link-->
         <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
